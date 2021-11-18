@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6132090921723467205}
   - component: {fileID: 6132090921722369797}
   - component: {fileID: 6132090921223136673}
+  - component: {fileID: 5372801422016090191}
   m_Layer: 0
   m_Name: Food_Pizza_01
   m_TagString: Untagged
@@ -93,3 +94,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
+--- !u!114 &5372801422016090191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6132090921720367557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f83f33be22d34640869ccd9698f7248, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
