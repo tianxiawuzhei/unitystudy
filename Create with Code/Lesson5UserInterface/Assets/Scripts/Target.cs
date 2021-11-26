@@ -20,6 +20,7 @@ public class Target : MonoBehaviour
     private float spawnY = -2;
 
     public int pointVal;
+    
     // Start is called before the first frame update
     void Start()
     {
